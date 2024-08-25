@@ -1,2 +1,0 @@
-username = muthum7
-password = muthuappu7
